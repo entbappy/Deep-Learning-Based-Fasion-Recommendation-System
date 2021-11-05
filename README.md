@@ -6,7 +6,7 @@ A Deep learning based streamlit web app which can recommened you various types o
 
 ## Original repo:
 
- - [Project Repo link](https://github.com/entbappy/)
+ - [Project Repo link](https://github.com/entbappy/Deep-Learning-Based-Fasion-Recommendation-System)
 
 
 ## Demo Video:
@@ -52,7 +52,7 @@ You can also use others images
 Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/
+git clone https://github.com/entbappy/Deep-Learning-Based-Fasion-Recommendation-System.git
 ```
 
 ## STEP 02: 
