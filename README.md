@@ -17,7 +17,7 @@ Both the users and the services provided have benefited from these kinds of syst
 
 ## Demo Video:
 
- - [Demo video link](https://www.youtube.com/)
+ - [Demo video link](https://www.youtube.com/watch?v=DtDx8KgvJ8U)
 
 
 This is a methods of identifying similar products check various aspects on pictures, including: shape, colors, edges, features (including the lighting of the photo) and euclidean distance of vectors in a 'n' dim features space.
