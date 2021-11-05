@@ -77,7 +77,7 @@ Download the data from the link and keep it in your project directory. Make sure
 <img src="demo/7.png" alt="workflow" width="70%">
 
 ## STEP 05: 
-Just execute this command one time if you are not changing the data
+Just execute this command & wait, it may take some time
 
 
 ```bash
