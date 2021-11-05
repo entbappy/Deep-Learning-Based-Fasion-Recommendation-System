@@ -1,0 +1,5 @@
+base:
+  data_path: data
+  include_top: False
+  weights: imagenet
+
